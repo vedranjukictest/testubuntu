@@ -1,0 +1,4 @@
+{
+    "name": "Ubuntu Dev Container",
+    "image": "ubuntu:latest"
+}
